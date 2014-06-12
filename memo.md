@@ -6,6 +6,8 @@
 ## LAMP環境の構築
 
 ### Wordpress
+* apache2,mysql,php5入れた
+* 画像のアップロードを出来るようにした
 
 #### Wordpressチューニング
 
